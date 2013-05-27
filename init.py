@@ -19,4 +19,4 @@
 # THE SOFTWARE.
 
 __author__ = 'tbanker'
-__version__ = 'beta'
+__version__ = 'alpha'
